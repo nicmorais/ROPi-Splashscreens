@@ -1,5 +1,6 @@
 ## nicmorais ROPi-Splashscreens
 
-![](https://i.imgur.com/gbjSBpv.png" | width=48)
+![](https://i.imgur.com/xCKM7Ok.png)
+
 
 Splashscreens for RetrOrangePi.
